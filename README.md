@@ -1,7 +1,9 @@
-## Hi there 👋
-# 🚀 Rosendo Mendoza - Python Developer | Cybersecurity & API Specialist 
+<p align="left">
+  <img src="Mi_Avatar.jpg" alt="Rosendo Mendoza - Python Developer" width="50"/>
+  <strong>🚀 Rosendo Mendoza - Python Developer | Cybersecurity & API Specialist</strong>
+</p>
 
-<img src="Mi_Avatar.jpg" alt="Rosendo Mendoza - Python Developer" width="200"/>
+# 🚀 Rosendo Mendoza - Python Developer | Cybersecurity & API Specialist 
 
 
 🔹 **Python Developer | Cybersecurity Engineer at SIA (Indra Group)**  
