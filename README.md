@@ -5,6 +5,7 @@
 
 <p align="left">
   <img src="Mi_Avatar.jpg" alt="Rosendo Mendoza - Python Developer" width="150" style="vertical-align: middle; margin-right: 10px;"/>
+   <h2>🚀 Rosendo Mendoza - Python Developer | Cybersecurity & API Specialist</h2>
   <span style="font-size: 28px; font-weight: bold;">🚀 Rosendo Mendoza - Python Developer | Cybersecurity & API Specialist</span>
 </p>
 
