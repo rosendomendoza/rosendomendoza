@@ -1,10 +1,7 @@
 <p align="left">
-  <img src="Mi_Avatar.jpg" alt="Rosendo Mendoza - Python Developer" width="50"/>
+  <img src="Mi_Avatar.jpg" alt="Rosendo Mendoza - Python Developer" width="100"/>
   <strong>🚀 Rosendo Mendoza - Python Developer | Cybersecurity & API Specialist</strong>
 </p>
-
-# 🚀 Rosendo Mendoza - Python Developer | Cybersecurity & API Specialist 
-
 
 🔹 **Python Developer | Cybersecurity Engineer at SIA (Indra Group)**  
 🔹 **Specialized in Secure API Development & Automation**  
